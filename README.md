@@ -20,6 +20,12 @@ React with vite and typescript with API.
 
 ## Resources:
 
+- **Project:**
+  - **Brazilian Tour:** https://code043.github.io/react-ts-brazilian-tour/
+- **Deploy:**
+
+  - **GitHub Pages:** https://pages.github.com/
+
 - **Editor:**
   - **Vscode:** https://code.visualstudio.com/download
 - **React:**
