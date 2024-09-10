@@ -1,6 +1,6 @@
-# React with Expresso
+# Brazilian Tour
 
-React with vite and typescript and server with node.
+React with vite and typescript with API.
 
 ## initializing
 
