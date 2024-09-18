@@ -64,7 +64,6 @@ footer p {
   margin-top: 10px;
   color: rgb(75, 75, 78);
 }
-
 @media screen and (max-width: 882px) {
   .tour {
     width: 100%;
